@@ -1,0 +1,35 @@
+header {
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+
+.particulars {
+    display: flex;
+    padding-left: 20px;
+    justify-content: space-between;
+
+}
+
+.fieldsColumn {
+    background-color:  rgb(227, 247, 247);
+
+}
+
+.primaryBtn {
+    height: 40px;
+    border-radius: 10px;
+}
+.fieldDiv {
+    display: flex;
+    gap: 10px;
+    padding: 5px; 
+}
+.fieldLbl {
+    width: 200px;
+}
+.fieldInput {
+    width: 500px;
+}
